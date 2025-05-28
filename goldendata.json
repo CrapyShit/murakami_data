@@ -1,7 +1,6 @@
 {
   "users": {},
-  "murakami": {},
-  "donations": {},
-  "user_parts": {},
-  "corrupted": {}
+  "total_summon": 0,
+  "total_corrupt": 0,
+  "updated": "2025-05-28T00:00:00Z"
 }
