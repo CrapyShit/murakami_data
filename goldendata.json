@@ -1,29 +1,4 @@
 {
-  "users": {
-    "123456789012345678": {
-      "balance": 150,                   // normal tokens
-      "corrupted_balance": 12,          // corrupted tokens
-      "total_used": {
-        "summon_gold": 40,
-        "corrupt_gold": 8
-      },
-      "history": [
-        {
-          "timestamp": "2025-05-28T16:00:00Z",
-          "action": "summon_gold",
-          "amount": 10,
-          "success": true,
-          "chance": 25.0
-        },
-        {
-          "timestamp": "2025-05-28T17:00:00Z",
-          "action": "corrupt_gold",
-          "amount": 5,
-          "success": false,
-          "chance": 15.0
-        }
-      ]
-    },
-    // …
-  }
+  "corrupted": false,
+  "updated": "2025-05-28T17:57:22.807861"
 }
