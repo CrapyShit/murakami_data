@@ -1,6 +1,11 @@
 {
-  "users": {},
-  "total_summon": 0,
+  "users": {
+    "532728104322465815": {
+      "summon": 50,
+      "corrupt": 0
+    }
+  },
+  "total_summon": 50,
   "total_corrupt": 0,
   "updated": "2025-05-28T00:00:00Z"
 }
