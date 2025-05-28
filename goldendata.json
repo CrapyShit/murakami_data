@@ -1,11 +1,7 @@
 {
-  "users": {
-    "user_id": {
-      "summon": total_tokens_used,
-      "corrupt": total_corrupted_tokens_used
-    }
-  },
-  "total_summon": total_tokens_used_by_all,
-  "total_corrupt": total_corrupted_tokens_used_by_all,
-  "updated": "ISO_TIMESTAMP"
+  "users": {},
+  "murakami": {},
+  "donations": {},
+  "user_parts": {},
+  "corrupted": {}
 }
